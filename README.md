@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou DevOps Engineer com ampla experiência na criação e manutenção de pipelines CI/CD utilizando GitHub Actions, Terraform, Python, Ansible, Docker, e tecnologias de cloud Microsoft Azure. Possuo habilidades em programação com Python, Shell Script, JavaScript. Sou apaixonado por tecnologia e sempre estou disposto a aprender coisas novas. 
+Sou DevOps Engineer com ampla experiência na criação e manutenção de pipelines CI/CD utilizando GitHub Actions, Terraform, Python, Ansible, Docker, e tecnologias de cloud Microsoft Azure. Possuo habilidades em programação com Python, Shell Script, JavaScript. Sou apaixonado por tecnologia e sempre estou disposto a aprender novas tecnologias. 
 
 
 ## 🌐 Socials:
